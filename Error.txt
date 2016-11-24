@@ -1,0 +1,3 @@
+﻿文件下载网址  =>  文件保存路径
+http://www.ehmall.com.cn/templates/default/images/null.gif  =>  C:\Users\张魁亮\Desktop\资料\单页扒站小工具\www.ehmall.com.cn\images\null.gif
+http://www.ehmall.com.cn/templates/default/css/trans.gif  =>  C:\Users\张魁亮\Desktop\资料\单页扒站小工具\www.ehmall.com.cn\images\trans.gif
